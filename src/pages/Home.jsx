@@ -359,7 +359,7 @@ const Home = () => {
             <figure className="p-3 rounded-lg text-center ">
               <img
                 src={install1}
-                className="rounded-lgrounded-br-none rounded-bl-none"
+                className="rounded-lg rounded-br-none rounded-bl-none"
               />
               <p className="h-26 flex items-center justify-center leading-4 text-sm tracking-tight py-1 text-red-700 font-semibold bg-white rounded-b-lg shadow-lg">
                 SQ (Sound quality) installation in a 1973 Mini Clubman
